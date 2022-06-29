@@ -1,2 +1,2 @@
-from SALMA import ZEEKO
+from MHB import ZEEKO
 ZEEKO()
